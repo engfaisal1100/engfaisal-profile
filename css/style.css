@@ -1,0 +1,462 @@
+  
+    /* الأساسيات */
+body {
+  background-color: #FEFEFE;
+  font-family: 'Segoe UI', sans-serif;
+  transition: background-color 0.3s, color 0.3s;
+  padding: 0;
+  margin:0;
+}
+
+.container {
+  background-color: white;
+}
+
+.section-box {
+  background: white;
+  border-radius: 10px;
+  padding:1rem;
+  margin:0;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+  margin-bottom: 1rem;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.carousel-item img {
+  height: 260px;
+  object-fit: cover;
+ 
+}
+
+/* المعلومات الشخصية */
+.profile-header {
+  margin-bottom: 50px;
+}
+
+.profile-info {
+  margin-top: -70px;
+}
+
+.profile-img {
+  width: 130px;
+  height: 130px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 5px solid #fff;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+.profile-name {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.profile-title,
+.profile-meta {
+  font-size: 1rem;
+  color: #6c757d;
+}
+
+.profile-meta {
+  font-size: 0.9rem;
+}
+
+/* الترويسة */
+header.main-header {
+  background-color: #fff;
+  color: #212529;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 15px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  position: fixed;
+  width: 100%;
+  z-index:1000;
+}
+
+header.main-header h1 {
+  font-size: 1.2rem;
+  margin: 0;
+  font-weight: 600;
+}
+
+.header-buttons {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.header-btn {
+  background-color: #0069d9;
+  border: none;
+  color: white;
+  font-size: 1.3rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: 6px;
+  transition: background-color 0.2s, color 0.2s;
+}
+
+.header-btn:hover,
+.header-btn:focus {
+  background-color: #0056b3;
+  outline: none;
+}
+
+/* التنقل بين التبويبات */
+.nav-tabs {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+
+.nav-tabs .nav-item {
+  flex: 0 0 auto;
+}
+
+.nav-tabs .nav-link.active {
+  border-color: #dee2e6 #dee2e6 #fff;
+}
+
+.tag {
+  display: inline-block;
+  background: #e9ecef;
+  border-radius: 20px;
+  padding: 0.25rem 0.75rem;
+  margin: 0.25rem;
+  font-size: 0.875rem;
+}
+
+/* المشاريع */
+.project-item {
+  min-height: 150px;
+  transition: box-shadow 0.3s ease;
+}
+
+.project-item:hover {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+}
+
+.project-img-container {
+  overflow: hidden;
+  height: 150px;
+}
+
+.project-img-container img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  transition: transform 0.4s ease;
+}
+
+.project-img-container:hover img {
+  transform: scale(1.05);
+}
+
+.profile-buttons a {
+    padding: 0.6rem 1.5rem;
+    font-size: 0.95rem;
+    font-weight: 500;
+    border-radius: 50px;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+
+  .profile-buttons a:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
+  }
+
+/* استجابة الهاتف */
+@media (max-width: 576px) {
+  .events-container {
+    flex-direction: column;
+  }
+
+  .events-list {
+    border-right: none;
+    border-bottom: 2px solid #dee2e6;
+    max-width: 100%;
+  }
+}
+
+/* الوضع الليلي */
+body.dark-theme {
+  background-color: #1e1e2f;
+  color: #eee;
+}
+
+body.dark-theme .container,
+body.dark-theme .section-box {
+  background-color: #1e1e2f;
+  color: #eee;
+}
+
+body.dark-theme .section-box {
+  box-shadow: 0 2px 5px rgba(255, 255, 255, 0.1);
+}
+
+body.dark-theme .nav-tabs .nav-link {
+  color: #ccc;
+}
+
+body.dark-theme .nav-tabs .nav-link.active {
+  background-color: white;
+  color: black;
+  border-color: #1e1e2f;
+}
+
+body.dark-theme .header-btn {
+  background-color: #3949ab;
+  color: #fff;
+}
+
+body.dark-theme .header-btn:hover,
+body.dark-theme .header-btn:focus {
+  background-color: #303f9f;
+}
+
+body.dark-theme .bg-light {
+  background-color: #2a2a40 !important;
+  color: #eee;
+}
+
+body.dark-theme a.text-primary {
+  color: #90caf9 !important;
+}
+
+body.dark-theme #profileTitle,
+body.dark-theme #profileMeta {
+  color: white !important;
+}
+
+body.dark-theme .tag {
+  color: black;
+}
+
+/* الوضع الليلي - قسم المراجع */
+body.dark-theme #review .section-box,
+body.dark-theme #review .bg-white {
+  background-color: #2b2b3d !important;
+  color: #eee;
+}
+
+body.dark-theme #review .text-primary,
+body.dark-theme #review .text-secondary,
+body.dark-theme #review .text-info,
+body.dark-theme #review a {
+  color: #7db9ff !important;
+}
+
+body.dark-theme #review .text-muted {
+  color: #aaa !important;
+}
+
+body.dark-theme #review blockquote {
+  color: #ddd;
+}
+
+/* الوضع الليلي - قسم المقالات */
+body.dark-theme #posts .bg-light {
+  background-color: #2b2b3d !important;
+  color: #eee;
+}
+
+body.dark-theme #posts .text-muted {
+  color: #aaa !important;
+}
+
+body.dark-theme #posts .text-warning {
+  color: #ffcb6b !important;
+}
+
+body.dark-theme #posts .text-success {
+  color: #8ff0a4 !important;
+}
+
+body.dark-theme #posts a {
+  color: #ffc107 !important;
+}
+
+
+
+body.dark-theme #modal-content{
+ background-color: #1e1e2f;
+ color:white;
+}
+
+body.dark-theme .btn-close{
+background-color:white;
+}
+
+body.dark-theme #modal-post{
+ background-color: #1e1e2f;
+ color:white;
+}
+
+body.dark-theme .btn-close{
+background-color:white;
+}
+
+
+
+/* الوضع الغامق - إبراز البطاقة */
+body.dark-theme .service-card {
+  background: linear-gradient(145deg, #1e1e2f, #2a2a3d);
+  color: #ffffff;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 0 20px rgba(77, 166, 255, 0.15), 0 0 10px rgba(255, 255, 255, 0.05);
+}
+
+/* عناوين ووصف في الوضع الغامق */
+body.dark-theme .service-card .card-title {
+  color: #4da6ff;
+}
+
+body.dark-theme .service-card .card-text {
+  color: #ccc;
+}
+
+/* تأثير تحويم إضافي */
+body.dark-theme .service-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 0 30px rgba(77, 166, 255, 0.25);
+}
+
+ body.dark-theme .btn-custom-cv {
+    background-color: #1e88e5;
+    color: white;
+  }
+
+  body.dark-theme .btn-custom-wa {
+    background-color: #25d366;
+    color: white;
+  }
+
+  body.dark-theme .btn-custom-cv:hover {
+    background-color: #1565c0;
+  }
+
+  body.dark-theme .btn-custom-wa:hover {
+    background-color: #1ebc57;
+  }
+   .social-icons {
+    margin-top: 1.5rem;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+
+  .social-icons a {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #e0e0e0;
+    color: #333;
+    font-size: 1.1rem;
+    transition: all 0.3s ease;
+    text-decoration: none;
+  }
+
+  .social-icons a:hover {
+    transform: scale(1.1);
+  }
+
+  /* الوضع الغامق */
+  body.dark-theme .social-icons a {
+    background-color: #2c2c2c;
+    color: #f5f5f5;
+  }
+
+  /* ألوان خاصة لكل منصة */
+  .social-icons .facebook { background-color: #3b5998; color: #fff; }
+  .social-icons .twitter { background-color: #1da1f2; color: #fff; }
+  .social-icons .linkedin { background-color: #0077b5; color: #fff; }
+  .social-icons .github { background-color: #333; color: #fff; }
+
+   footer {
+    background-color:white;
+    padding: 2rem 1rem;
+    text-align: center;
+    border-top: 1px solid #ddd;
+  }
+
+  footer h5 {
+    margin-bottom: 1rem;
+    font-weight: bold;
+  }
+
+  footer .contact-info {
+    margin-bottom: 1rem;
+    color: #555;
+  }
+
+  footer .contact-info i {
+    margin-right: 5px;
+    color: #007bff;
+  }
+
+  footer .whatsapp-form {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+
+  footer .whatsapp-form input {
+    border-radius: 20px;
+    padding: 0.6rem 1rem;
+    margin-bottom: 0.5rem;
+    border: 1px solid #ccc;
+    width: 100%;
+  }
+
+  footer .whatsapp-form button {
+    border-radius: 20px;
+    background-color: #25d366;
+    color: white;
+    padding: 0.5rem 1.5rem;
+    border: none;
+    transition: background 0.3s;
+  }
+
+  footer .whatsapp-form button:hover {
+    background-color: #1ebc57;
+  }
+
+  footer .developer {
+    margin-top: 1.5rem;
+    font-size: 0.9rem;
+    color: #888;
+  }
+
+  /* الوضع الليلي */
+  body.dark-theme footer {
+    background-color: #1e1e2f;
+    color: #eee;
+    border-top-color: #444;
+  }
+
+  body.dark-theme footer .contact-info {
+    color: #bbb;
+  }
+
+  body.dark-theme footer .whatsapp-form input {
+    background-color: #1e1e2f;
+    color: #fff;
+    border-color: #555;
+  }
+
+  body.dark-theme footer .developer {
+    color: #aaa;
+  }
