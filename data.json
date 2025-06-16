@@ -1,0 +1,1003 @@
+{
+  "profile": {
+    "name_ar": "م.فيصل الرازحي",
+    "name_en": "eng.Faisal Al Razhy",
+    "title_ar": "مطور ويب شامل",
+    "title_en": "Full-Stack Web Developer",
+    "meta_ar": "يتابعه 4273 | يتابع 108 | حساب لينكدإن 🔗",
+    "meta_en": "Followers: 4273 | Following: 108 | LinkedIn Account 🔗",
+    "image": "img/logo.png"
+  },
+"services": [
+  {
+    "ar": "تصميم مواقع ويب",
+    "en": "Web Designer",
+    "description_ar": "تصميم واجهات مواقع جذابة ومتجاوبة تتناسب مع هوية العميل.",
+    "description_en": "Designing attractive and responsive website interfaces that reflect the client's identity.",
+    "icon": "<i class=\"bi bi-window me-2\"></i>",
+    "colorClass": "text-danger"
+  },
+  {
+    "ar": "تطوير مواقع ويب",
+    "en": "Web Developer",
+    "description_ar": "برمجة مواقع ويب تفاعلية باستخدام تقنيات حديثة لضمان الأداء والسرعة.",
+    "description_en": "Developing interactive websites using modern technologies to ensure performance and speed.",
+    "icon": "<i class=\"bi bi-code-slash me-2\"></i>",
+    "colorClass": "text-success"
+  },
+  {
+    "ar": "تصميم وبرمجة مواقع ويب",
+    "en": "Web Designer && Web Programming",
+    "description_ar": "تصميم وبرمجة مواقع كاملة من الواجهة إلى الخلفية لتلبية جميع احتياجات العميل.",
+    "description_en": "Designing and programming full websites from front-end to back-end to meet all client needs.",
+    "icon": "<i class=\"bi bi-laptop me-2\"></i>",
+    "colorClass": ""
+  },
+  {
+    "ar": "تحسين محركات SEO",
+    "en": "Google SEO Optimization",
+    "description_ar": "تحسين ظهور الموقع في نتائج البحث لزيادة الزيارات والعملاء المحتملين.",
+    "description_en": "Improving website visibility in search engine results to increase traffic and potential clients.",
+    "icon": "<i class=\"bi bi-graph-up-arrow me-2\"></i>",
+    "colorClass": "text-primary"
+  },
+  {
+    "ar": "تحليل الأنظمة",
+    "en": "System Analysis",
+    "description_ar": "دراسة وتحليل متطلبات النظام لتصميم حلول تقنية فعّالة.",
+    "description_en": "Analyzing system requirements to design effective technical solutions.",
+    "icon": "<i class=\"bi bi-diagram-3 me-2\"></i>",
+    "colorClass": "text-warning"
+  },
+  {
+    "ar": "خدمات الاستضافة وتسويق إلكتروني",
+    "en": "Hosting Services and Digital Marketing",
+    "description_ar": "تقديم حلول استضافة موثوقة وخطط تسويق إلكتروني مبتكرة تساعد في تعزيز حضورك الرقمي وزيادة الوصول إلى جمهورك المستهدف.",
+    "description_en": "Providing reliable hosting solutions and innovative digital marketing strategies to enhance your online presence and reach your target audience effectively.",
+    "icon": "<i class=\"bi bi-cloud-check me-2\"></i>",
+    "colorClass": ""
+  },
+  {
+    "ar": "تصميم جرافيكس دعاية واعلان",
+    "en": "Graphic Designer for Stationery and Advertising",
+    "description_ar": "تصميم مواد دعائية وهوية بصرية احترافية للمطبوعات والإعلانات.",
+    "description_en": "Designing professional advertising materials and visual identity for print and digital ads.",
+    "icon": "<i class=\"bi bi-brush me-2\"></i>",
+    "colorClass": "text-danger"
+  }
+],
+
+
+  "projects": [
+
+{
+ "title_ar": "موقع مؤسسة مقاولات عامة - نجران",
+"title_en": "General Contracting Company Website – Najran",
+"description_ar":"تم تطوير موقع إلكتروني احترافي لمؤسسة تعمل في مجال المقاولات العامة بمدينة نجران، يهدف إلى عرض خدماتها ومشاريعها السابقة بشكل منظم وجذاب. يتميز الموقع بتصميم متجاوب يناسب جميع الأجهزة، ولوحة تحكم مخصصة لإدارة المحتوى، إلى جانب تحسين شامل لمحركات البحث باستخدام تقنيات حديثة لتعزيز الحضور الرقمي والمحلي.",
+"description_en": "A professional website developed for a general contracting company based in Najran, designed to showcase its services and past projects in a structured and appealing way. The site features a fully responsive design, a custom content management dashboard, and comprehensive SEO optimization using modern technologies to enhance both local and digital presence.",
+"link": "https://dhandekor.kesug.com",
+  "image": "https://i.postimg.cc/289324hj/image.jpg",
+  "images":
+ [
+"https://i.postimg.cc/Y2zj5cKS/screencapture-dhandekor-kesug-2025-06-14-17-51-38.png",
+"https://i.postimg.cc/44bfCG9S/screencapture-dhandekoryaid-kesug-admin-index-php-2025-06-15-18_02_58.png",
+"https://i.postimg.cc/6pTtGG1k/screencapture-dhandekoryaid-kesug-admin-index-php-2025-06-15-18_03_27.png",
+"https://i.postimg.cc/hPDScY8P/screencapture-dhandekoryaid-kesug-admin-index-php-2025-06-15-18_03_41.png",
+"https://i.postimg.cc/rm6KkMwD/screencapture-dhandekor-kesug-about-2025-06-14-17-51-56.png",
+"https://i.postimg.cc/DwZWQxNw/screencapture-dhandekor-kesug-contact-2025-06-14-17-52-17.png",
+"https://i.postimg.cc/3w0dVdYM/screencapture-dhandekor-kesug-projects-2025-06-14-17-52-08.png",
+"https://i.postimg.cc/Kjxj1fLF/screencapture-dhandekor-kesug-service-details-2025-06-14-17-52-31.png"
+],
+  "category": "web"
+},
+{
+  "title_ar": "موقع معلم دهانات وديكورات – الرياض",
+  "title_en": "Paints & Decorations Website – Riyadh",
+"description_ar": "تم تصميم وتطوير موقع إلكتروني احترافي لمعلم دهانات وديكورات في مدينة الرياض، يهدف إلى عرض الخدمات والأعمال السابقة بشكل جذاب ومنظم. يتميز الموقع بتصميم متجاوب يعمل بسلاسة على جميع الأجهزة، ولوحة تحكم مخصصة لإدارة المحتوى، مع تحسين شامل لمحركات البحث باستخدام تقنيات حديثة لتعزيز الظهور في نتائج البحث المحلية.",
+"description_en": "A professional website developed for a skilled paint and decoration specialist based in Riyadh, designed to showcase services and previous work in an attractive and organized manner. The site features a fully responsive layout, a custom content management panel, and comprehensive SEO enhancements using modern technologies to boost local search visibility.",
+  "link": "https://dhandekoryaid.kesug.com",
+  "image": "https://i.postimg.cc/pL9r7pJf/image.jpg",
+  "images":
+ [
+"https://i.postimg.cc/8cZpjSNB/screencapture-dhandekoryaid-kesug-2025-06-14-17-56-56.png",
+"https://i.postimg.cc/44bfCG9S/screencapture-dhandekoryaid-kesug-admin-index-php-2025-06-15-18_02_58.png",
+"https://i.postimg.cc/6pTtGG1k/screencapture-dhandekoryaid-kesug-admin-index-php-2025-06-15-18_03_27.png",
+"https://i.postimg.cc/hPDScY8P/screencapture-dhandekoryaid-kesug-admin-index-php-2025-06-15-18_03_41.png",
+"https://i.postimg.cc/ZRFKzNQQ/screencapture-dhandekoryaid-kesug-about-2025-06-14-18-01-35.png",
+"https://i.postimg.cc/T3FPVfmt/screencapture-dhandekoryaid-kesug-contact-2025-06-14-18-01-23.png",
+"https://i.postimg.cc/fbdR5pfD/screencapture-dhandekoryaid-kesug-motivation-2025-06-14-18-01-10.png",
+"https://i.postimg.cc/Y9wqPRdg/screencapture-dhandekoryaid-kesug-portfolio-2025-06-14-18-00-58.png"
+],
+  "category": "web"
+},
+{
+  "title_ar": "منصة طلب وجبات مطعم الزمن القديم",
+  "title_en": "Zaman Restaurant Meal Ordering Platform",
+  "description_ar": "قمتُ بتطوير موقع إلكتروني لمطعم متخصص في عرض الوجبات مع إمكانية الطلب والتعليق، باستخدام HTML, CSS, Bootstrap 5, JavaScript, وJSON مع لوحة تحكم PHP PDO.",
+  "description_en": "I developed a restaurant website for displaying meals with ordering and comment features, using HTML, CSS, Bootstrap 5, JavaScript, and JSON with a PHP PDO admin panel.",
+  "link": "https://zamanrestaurant.netlify.app/",
+  "image": "https://i.postimg.cc/nhbJGNZj/image.jpg",
+  "images": ["https://i.postimg.cc/nhbJGNZj/image.jpg"],
+  "category": "web"
+},
+{
+  "title_ar": "موقع شركة الدهانات والديكورات",
+  "title_en": "Paints & Decorations Company Website",
+  "description_ar": "قمت بتطوير موقع إلكتروني متكامل لعرض خدمات وأعمال شركة متخصصة في الدهانات والديكورات، باستخدام JSON وPHP PDO ولوحة تحكم مخصصة، مع تصميم متجاوب وتهيئة لمحركات البحث.",
+  "description_en": "I developed a comprehensive website for a company specializing in paints and decorations, using JSON and PHP PDO with a custom admin panel, responsive design, and SEO optimization.",
+  "link": "https://abunawaf.netlify.app",
+  "image": "https://i.postimg.cc/wTQj247R/image.jpg",
+  "images": ["https://i.postimg.cc/wTQj247R/image.jpg"],
+  "category": "web"
+},
+{
+  "title_ar": "موقع دهانات وديكورات الرياض",
+  "title_en": "Riyadh Paints & Decorations Website",
+  "description_ar": "قمت بتطوير موقع إلكتروني متكامل لعرض خدمات وأعمال عميل في مجال الدهانات والديكورات، باستخدام JSON وPHP PDO مع لوحة تحكم مخصصة، وتصميم متجاوب وتحسين لمحركات البحث.",
+  "description_en": "I developed a comprehensive website for a client in the field of paints and decorations, using JSON and PHP PDO with a custom control panel, responsive design, and SEO optimization.",
+  "link": "https://dhandekorriyadh.netlify.app/",
+  "image": "https://i.postimg.cc/ZKjPvcF4/image.jpg",
+  "images": ["https://i.postimg.cc/ZKjPvcF4/image.jpg"],
+  "category": "web"
+},
+{
+  "title_ar": "موقع جمعية ود الخيرية",
+  "title_en": "Wud Charity Association Website",
+"description_ar": "تم تطوير موقع إلكتروني متكامل لجمعية ود الخيرية، يهدف إلى عرض البرامج الخيرية والمبادرات الاجتماعية والتقارير المالية بشفافية وسهولة وصول. يتميز الموقع بلوحة تحكم مخصصة لإدارة المحتوى بالكامل، وتصميم متجاوب يناسب جميع الأجهزة، مع تحسين لمحركات البحث باستخدام أحدث التقنيات لتعزيز الوصول والدعم المجتمعي.",
+"description_en": "A full-featured website developed for Wud Charity Association, designed to present charitable programs, social initiatives, and financial reports with transparency and easy access. It features a custom admin panel for complete content management, a responsive layout for all devices, and SEO optimization using modern technologies to boost reach and community support.",
+  "link": "https://postimg.cc/gallery/Y0CKBhg",  
+  "image": "https://i.postimg.cc/gk2nVMwB/image.jpg",
+  "images": [
+    "https://i.postimg.cc/SRS9BkgW/screencapture-localhost-wod-project-Wod-project-Visitor-interfaces-2025-06-14-18-19-15.png",
+    "https://i.postimg.cc/76y0Ng7t/screencapture-localhost-wod-project-Wod-project-admin-index-php-2025-06-14-18-20-50.png",
+    "https://i.postimg.cc/L8nt442D/screencapture-localhost-wod-project-Wod-project-admin-index-php-2025-06-14-18-21-20.png",
+    "https://i.postimg.cc/xdmLHskb/screencapture-localhost-wod-project-Wod-project-admin-index-php-2025-06-14-18-21-58.png",
+    "https://i.postimg.cc/zG6nymfr/screencapture-localhost-wod-project-Wod-project-admin-index-php-2025-06-14-18-22-48.png",
+    "https://i.postimg.cc/1tc67frm/screencapture-localhost-wod-project-Wod-project-Visitor-interfaces-employees-login-emp-php-2025-06-1.png"
+  ],
+  "category": "web"
+},
+
+{
+  "title_ar": "منصة إدارة أعمال التدريب",
+  "title_en": "Training Operations Management Platform",
+  "description_ar": "لقد قمت بتطوير منصة متكاملة لإدارة أعمال التدريب، تجمع بين أحدث التقنيات لضمان تجربة مستخدم متميزة وفعّالة. يعتمد الموقع على PHP PDO مع MySQL لضمان الاتصال الآمن والسريع مع قاعدة البيانات، ويستخدم AJAX لتحميل البيانات بشكل ديناميكي دون الحاجة لتحديث الصفحة. إضافة إلى ذلك، استخدمت مكتبة jQuery لتحميل المحتوى إلى لوحة التحكم بشكل فوري عند الضغط على الأزرار، مما يعزز من سرعة التفاعل مع المستخدم. كما قمت بتوظيف JavaScript في الموقع لضمان أداء سلس، وتعامل مرن مع الأحداث مثل التفاعلات مع النماذج والواجهات، مما يساهم في تحسين تجربة المستخدم بشكل عام. تشمل المميزات الأخرى دعم استيراد وتصدير بيانات Excel بسهولة، واستخدام مكتبة DataTables لتمكين فلترة وتنظيم البيانات بسرعة، مع إشعارات تفاعلية عبر SweetAlert. هذا المشروع يعكس خبرتي في استخدام تقنيات متعددة مثل PHP وJavaScript وAJAX لتطوير تطبيقات ويب مرنة ومتطورة تلبي احتياجات الأعمال الحديثة.",
+  "description_en": "I developed a comprehensive platform for managing training operations, combining the latest technologies to ensure an exceptional and effective user experience. The site relies on PHP PDO with MySQL to ensure secure and fast connection with the database, and uses AJAX to load data dynamically without the need for page refresh. Additionally, I utilized the jQuery library to load content to the control panel instantly when buttons are clicked, enhancing the speed of user interaction. JavaScript was also employed to ensure smooth performance and flexible handling of events such as interactions with forms and interfaces, contributing to an overall improved user experience. Other features include support for easy import and export of Excel data, and the use of the DataTables library to enable quick data filtering and organization, along with interactive notifications via SweetAlert. This project reflects my expertise in using multiple technologies such as PHP, JavaScript, and AJAX to develop flexible and advanced web applications that meet the needs of modern businesses.",
+  "link": "https://postimg.cc/gallery/tHRQwFk",
+  "image": "https://i.postimg.cc/VNkywDfT/1739809049996.jpg",
+  "images": [
+  "https://i.postimg.cc/VNkywDfT/1739809049996.jpg","https://i.postimg.cc/4xv2mt2g/trashed-1739992787-screencapture-rct-tr-index-php-2025-01-17-23-55-26.png",
+  "https://i.postimg.cc/rp8nWm7t/trashed-1739992787-screencapture-rct-tr-index-php-2025-01-17-23-55-58.png",
+  "https://i.postimg.cc/3wnLZhHf/trashed-1739992787-screencapture-rct-tr-index-php-2025-01-17-23-57-08.png",
+  "https://i.postimg.cc/4dyWL0ff/trashed-1739992787-screencapture-rct-tr-index-php-2025-01-17-23-58-13.png",
+  "https://i.postimg.cc/4dyWL0ff/trashed-1739992787-screencapture-rct-tr-index-php-2025-01-17-23-58-13.png",
+  "https://i.postimg.cc/9MkJvB0G/IMG.png",
+  "https://i.postimg.cc/j2JZKJnB/IMG.png",
+  "https://i.postimg.cc/K4SQYvnj/screencapture-rct-tr-index-php-2025-01-17-23-56-29.png"
+  ],
+  "category": "web"
+},
+{
+  "title_ar": "موقع تعريفي لشركة برمجية",
+  "title_en": "Software Company Informational Website",
+  "description_ar": "تم تصميم الموقع التالي لشركة برمجية كموقع تعريفي. يتميز الموقع بالمرونة والبساطة وسهولة التصفح. تم استخدام أحدث التقنيات في تصميمه لضمان تجربة مستخدم سلسة وعصرية.",
+  "description_en": "This website was designed for a software company as an informational site. The website is characterized by its flexibility, simplicity, and ease of navigation. The latest technologies have been used in its design to ensure a smooth and modern user experience.",
+  "link": "https://afresite.github.io/afre-site/",
+  "image": "https://i.postimg.cc/d3YMCnBq/1739802552836.jpg",
+  "images": ["https://i.postimg.cc/d3YMCnBq/1739802552836.jpg"],
+  "category": "web"
+},
+{
+  "title_ar": "لوحة تحكم منصة المتدربين للمؤسسة العامة",
+  "title_en": "Control Panel for the Trainee Platform of the Public Institution",
+  "description_ar": "هذا الموقع هو الجزء الخاص بلوحة التحكم لموقع منصة المتدربين للمؤسسة العامة. من خلال لوحة التحكم هذه، يتمكن المدربون والمسؤولون الآخرون من مراجعة الطلبات الخاصة بالمتدربين وتحويلها بين المسؤولين حتى يتم الرد عليها بالشكل الصحيح. تمتاز لوحة التحكم هذه بالمرونة والسهولة في الاستخدام.",
+  "description_en": "This website is the control panel section of the Trainee Platform for the public institution. Through this control panel, trainers and other administrators can review trainee requests and transfer them between responsible parties until they are properly addressed. This control panel is characterized by its flexibility and ease of use.",
+  "link": "https://engfaisal101.github.io/control_panel/",
+  "image": "https://i.postimg.cc/nrdR0kxb/1737405831614.jpg",
+  "images": ["https://i.postimg.cc/nrdR0kxb/1737405831614.jpg"],
+  "category": "web"
+},
+{
+  "title_ar": "منصة متكاملة لإدارة أعمال المتدربين",
+  "title_en": "Comprehensive Platform for Managing Trainee Tasks",
+  "description_ar": "قمت بتطوير منصة متكاملة لإدارة أعمال المتدربين مع تخصيص صلاحيات متعددة لكل نوع من المستخدمين حسب احتياجاتهم. تضم المنصة ثلاثة أنواع من المستخدمين: مدير النظام بصلاحيات كاملة، رؤوساء آخرين لصلاحيات متوسطة، والمتدربين بصلاحيات محدودة. تستخدم المنصة أحدث التقنيات مثل JavaScript، AJAX، jQuery، وتعتمد على JSON لإدارة البيانات عبر API، مع دعم تصدير واستيراد ملفات Excel، وتنظيم البيانات باستخدام مكتبة DataTables. توفر المنصة تجربة مستخدم مرنة وسلسة، وتُمكّن المستخدمين من إدارة المهام بكفاءة عالية.",
+  "description_en": "I developed a comprehensive platform for managing trainee tasks with multiple permissions assigned to different types of users based on their needs. The platform includes three types of users: full-access System Administrator, medium-access Supervisors, and limited-access Trainees. It uses modern technologies such as JavaScript, AJAX, jQuery, and relies on JSON for data management via API, supporting import/export of Excel files and data organization using the DataTables library. The platform offers a flexible and smooth user experience, enabling efficient task management.",
+  "link": "https://engfaisal101.github.io/Technical-Foundation-Project/",
+  "image": "https://i.postimg.cc/mDy6F46r/1737405830471.jpg",
+  "images": [
+  "https://i.postimg.cc/mDy6F46r/1737405830471.jpg",
+  "https://i.postimg.cc/JzjRRWyg/‏‏لقطة_الشاشة_(231).png",
+  "https://i.postimg.cc/3JsKMwwm/‏‏لقطة_الشاشة_(230).png",
+  "https://i.postimg.cc/m2zb69TT/‏‏لقطة_الشاشة_(232).png",
+  "https://i.postimg.cc/bv8pJFkv/‏‏لقطة_الشاشة_(233).png",
+  "https://i.postimg.cc/brGjWXcm/‏‏لقطة_الشاشة_(235).png",
+  "https://i.postimg.cc/x8WSSs9n/‏‏لقطة_الشاشة_(236).png"
+  ],
+  "category": "web"
+},
+{
+  "title_ar": "موقع تعريفي لمؤسسة التعاون سوفت ",
+  "title_en": "Altown Company Profile Website",
+  "description_ar": "تم تصميم هذا الموقع لإحدى الشركات كموقع تعريفي خاص بها، والذي يمتاز بالمرونة والواجهة الرسومية والتصميم الكلاسيكي الحديث.",
+  "description_en": "This website was designed for a company as a dedicated profile site, which is characterized by flexibility, graphical interface, and modern classic design.",
+  "link": "https://engfaisal101.github.io/Altowan_Soft/",
+  "image": "https://i.postimg.cc/3J4Cs7CD/Altown-company.jpg",
+  "images": ["https://i.postimg.cc/3J4Cs7CD/Altown-company.jpg"],
+  "category": "web"
+},
+{
+  "title_ar": "موقع أثاث منزلي مخصص",
+  "title_en": "Customized Home Furniture Website",
+  "description_ar": "موقع إلكتروني مبتكر متخصص في توفير الأثاث المنزلي بطريقة مخصصة لكل عميل. يتيح الموقع للمستخدمين إدخال تفاصيل دقيقة مثل الميزانية المتاحة، قياسات المساحة المخصصة للأثاث، والأسلوب أو الطراز المفضل لديهم. بناءً على هذه المدخلات، يعرض الموقع خيارات أثاث تتناسب تمامًا مع احتياجاتهم وميزانيتهم، مع توفير أدوات ثلاثية الأبعاد لمعاينة الأثاث في المكان.",
+  "description_en": "An innovative website specialized in providing customized furniture solutions for each client. The site allows users to input detailed information such as their available budget, the dimensions of the space designated for the furniture, and their preferred style or design. Based on these inputs, the site presents furniture options that perfectly match their needs and budget, with 3D tools to preview the furniture in the space.",
+  "link": "https://i.postimg.cc/90YrnZdc/image.jpg",
+  "image": "https://i.postimg.cc/90YrnZdc/image.jpg",
+  "images": ["https://i.postimg.cc/90YrnZdc/image.jpg"],
+  "category": "web"
+},
+{
+  "title_ar": "موقع مكتبة إلكترونية جامعية",
+  "title_en": "University Electronic Library Website",
+  "description_ar": "مشروع موقع ويب مكتبة إلكترونية خاص بالجامعات، يمكن للجامعة من خلاله رفع الكتب، المستلزمات، والمقررات الدراسية. يتميز الموقع بتصنيفات وفلترة دقيقة لكل تخصص، مع إمكانية تسجيل دخول الطلاب باستخدام الرقم الجامعي وكلمة المرور لاستعراض وتحميل الكتب والمقررات الخاصة بقسمهم أو المسموح لهم بالاطلاع عليها.",
+  "description_en": "A website project for a university electronic library where the university can upload books, materials, and academic courses. The site features detailed classifications and filters for each specialization. Students can log in with their university ID and password to browse and download books and courses related to their department or those they are authorized to access.",
+  "link": "https://i.postimg.cc/4NsH5g2g/lib.jpg",
+  "image": "https://i.postimg.cc/4NsH5g2g/lib.jpg",
+  "images": ["https://i.postimg.cc/4NsH5g2g/lib.jpg"],
+  "category": "web"
+},
+{
+  "title_ar": "تجربة مع JavaScript API وFirebase",
+  "title_en": "Experience with JavaScript API and Firebase",
+  "description_ar": "موقع تم تطويره لتجربة استخدام JavaScript API مع Firebase، باستخدام HTML، CSS، Bootstrap 5، JSON، وSweetAlert. الموقع يدعم عمليات CRUD كاملة باستخدام JavaScript API لتعزيز التفاعل وإدارة البيانات بشكل ديناميكي.",
+  "description_en": "A website developed to experiment with JavaScript API through Firebase, utilizing HTML, CSS, Bootstrap 5, JSON, and SweetAlert. The site supports full CRUD operations using JavaScript API to enhance interactivity and dynamic data management.",
+  "link": "https://engfaisal101.github.io/project_homes/index.html",
+  "image": "https://i.postimg.cc/zXrGrFTS/1734464430874.jpg",
+  "images": ["https://i.postimg.cc/zXrGrFTS/1734464430874.jpg"],
+  "category": "web"
+},
+{
+  "title_ar": "موقع حلول الأسئلة وتبادل المعرفة",
+  "title_en": "Question & Answer Knowledge Sharing Website",
+  "description_ar": "موقع يساعد المستخدمين في نشر أسئلتهم والحصول على حلول من المجتمع، مع إمكانية الإجابة على أسئلة الآخرين. يشبه مواقع المنتديات مثل Stack Overflow، ويتميز بتصميم متجاوب، أداء سريع، وواجهة سهلة الاستخدام.",
+  "description_en": "A website that helps users post their questions and receive solutions from the community, with the ability to answer others’ questions. Similar to forums like Stack Overflow, it features a responsive design, fast performance, and an easy-to-use interface.",
+  "link": "https://i.postimg.cc/59FX1tT1/q.jpg",
+  "image": "https://i.postimg.cc/59FX1tT1/q.jpg",
+  "images": ["https://i.postimg.cc/59FX1tT1/q.jpg"],
+  "category": "web"
+},
+{
+  "title_ar": "منصة تعليمية خاصة لتدريس الكيمياء",
+  "title_en": "Private Educational Platform for Chemistry Lessons",
+  "description_ar": "منصة تعليمية تم تطويرها للعميل عبدالرحمن تقدم دروسًا خاصة بمادة الكيمياء. يتم رفع الفيديوهات على Vimeo أو YouTube بصلاحيات خاصة، ويوفر الموقع نظام تسجيل دخول مع إدخال كود صلاحية للوصول إلى الدورات. يمكن للمسؤول إنشاء أكواد صلاحية محددة حسب عدد الدورات وفترة الاستخدام، مع حماية من الاستخدام المتكرر على أجهزة متعددة. يدير المسؤول الدورات والدروس من خلال لوحة تحكم شاملة، ويستطيع إضافة صور واختبارات للموقع.",
+  "description_en": "An educational platform developed for client Mr. Abdulrahman, offering specialized chemistry lessons. Videos are uploaded privately on Vimeo or YouTube, and the site features user registration with an authorization code system to access courses. The admin can generate permission codes defining accessible courses and usage duration, preventing multiple device use. The admin manages courses and lessons via a control panel and can add images and tests to the site.",
+  "link": "https://i.postimg.cc/sxMbhqFG/edu-free.jpg",
+  "image": "https://i.postimg.cc/sxMbhqFG/edu-free.jpg",
+  "images": ["https://i.postimg.cc/sxMbhqFG/edu-free.jpg"],
+  "category": "web"
+},
+{
+  "title_ar": "موقع عقارات للإيجار والبيع",
+  "title_en": "Real Estate Website for Rent and Sale",
+  "description_ar": "مشروع عبارة عن موقع يساعد الأشخاص في العثور على العقارات المتاحة للإيجار أو البيع، سواء كانت أراضي أو منازل. يمكن للمستخدم إنشاء حساب وتسجيل العقار الخاص به، ولكن لا يظهر العقار في الموقع إلا بعد موافقة المسؤول. يوفر الموقع إمكانية البحث عن العقارات والتواصل مع المسؤول عبر واتساب أو اتصال أو رسالة نصية.",
+  "description_en": "This project is a website that helps people find available properties for rent or sale, including land and houses. Users can create accounts and list their properties, but the properties only appear after admin approval. The site offers property browsing and allows users to contact the admin via WhatsApp, call, or text message.",
+  "link": "https://i.postimg.cc/d1mbFr2D/byte.jpg",
+  "image": "https://i.postimg.cc/d1mbFr2D/byte.jpg",
+  "images": ["https://i.postimg.cc/d1mbFr2D/byte.jpg"],
+  "category": "web"
+},
+{
+  "title_ar": "موقع دردشة جماعية وتعارف",
+  "title_en": "Group Chat and Social Interaction Website",
+  "description_ar": "موقع يوفر دردشة جماعية بين المستخدمين مع إمكانية التعارف والتفاعل بينهم. تم تطوير الموقع كمشروع عملي لمقرر برمجة مواقع الويب وحصلت على الدرجة النهائية فيه. يتميز الموقع بتصميم متجاوب وأداء سريع وسهل الاستخدام.",
+  "description_en": "A website that provides group chatting among users with interaction and socializing features. Developed as a practical project for a web development course, awarded the highest grade. The site features a responsive design, fast performance, and user-friendly interface.",
+  "link": "https://i.postimg.cc/XvFM2TXf/chat.jpg",
+  "image": "https://i.postimg.cc/XvFM2TXf/chat.jpg",
+  "images": ["https://i.postimg.cc/XvFM2TXf/chat.jpg"],
+  "category": "web"
+},
+{
+  "title_ar": "فيصل مصمم جرافيكس",
+  "title_en": "FAISAL graphics desing",
+  "description_ar": "",
+  "description_en": "",
+   "link": "https://i.postimg.cc/9FvNqtT8/1745930953085.jpg",
+  "image": "https://i.postimg.cc/9FvNqtT8/1745930953085.jpg",
+  "images": ["https://i.postimg.cc/9FvNqtT8/1745930953085.jpg"],
+  "category": "graphics"
+},
+{
+  "title_ar": "فيصل مصمم جرافيكس",
+  "title_en": "FAISAL graphics desing",
+  "description_ar": "",
+  "description_en": "",
+   "link": "https://i.postimg.cc/sfHL3R2R/1745930953067.jpg",
+  "image": "https://i.postimg.cc/sfHL3R2R/1745930953067.jpg",
+  "images": ["https://i.postimg.cc/sfHL3R2R/1745930953067.jpg"],
+  "category": "graphics"
+},
+{
+  "title_ar": "فيصل مصمم جرافيكس",
+  "title_en": "FAISAL graphics desing",
+  "description_ar": "",
+  "description_en": "",
+  "link": "https://i.postimg.cc/VNPT2Bkr/1745930799617.jpg",
+  "image": "https://i.postimg.cc/VNPT2Bkr/1745930799617.jpg",
+  "images": ["https://i.postimg.cc/VNPT2Bkr/1745930799617.jpg"],
+  "category": "graphics"
+},
+{
+  "title_ar": "فيصل مصمم جرافيكس",
+  "title_en": "FAISAL graphics desing",
+  "description_ar": "",
+  "description_en": "",
+  "link": "https://i.postimg.cc/mgHJd6BW/1745930799590.jpg",
+  "image": "https://i.postimg.cc/mgHJd6BW/1745930799590.jpg",
+  "images": ["https://i.postimg.cc/mgHJd6BW/1745930799590.jpg"],
+  "category": "graphics"
+},
+{
+  "title_ar": "فيصل مصمم جرافيكس",
+  "title_en": "FAISAL graphics desing",
+  "description_ar": "",
+  "description_en": "",
+  "link": "https://i.postimg.cc/KvVCDyX5/1745930799571.jpg",
+  "image": "https://i.postimg.cc/KvVCDyX5/1745930799571.jpg",
+  "images": ["https://i.postimg.cc/KvVCDyX5/1745930799571.jpg"],
+  "category": "graphics"
+},
+{
+  "title_ar": "فيصل مصمم جرافيكس",
+  "title_en": "FAISAL graphics desing",
+  "description_ar": "",
+  "description_en": "",
+   "link": "https://i.postimg.cc/RCgkqHXy/1745930799529.jpg",
+  "image": "https://i.postimg.cc/RCgkqHXy/1745930799529.jpg",
+  "images": ["https://i.postimg.cc/RCgkqHXy/1745930799529.jpg"],
+  "category": "graphics"
+},
+{
+  "title_ar": "فيصل مصمم جرافيكس",
+  "title_en": "FAISAL graphics desing",
+  "description_ar": "",
+  "description_en": "",
+   "link": "https://i.postimg.cc/6qbgPk8t/1745930799508.jpg",
+  "image": "https://i.postimg.cc/6qbgPk8t/1745930799508.jpg",
+  "images": ["https://i.postimg.cc/6qbgPk8t/1745930799508.jpg"],
+  "category": "graphics"
+},
+{
+  "title_ar": "فيصل مصمم جرافيكس",
+  "title_en": "FAISAL graphics desing",
+  "description_ar": "",
+  "description_en": "",
+   "link": "https://i.postimg.cc/MTDh7Mxc/1745930799460.jpg",
+  "image": "https://i.postimg.cc/MTDh7Mxc/1745930799460.jpg",
+  "images": ["https://i.postimg.cc/MTDh7Mxc/1745930799460.jpg"],
+  "category": "graphics"
+},
+{
+  "title_ar": "فيصل مصمم جرافيكس",
+  "title_en": "FAISAL graphics desing",
+  "description_ar": "",
+  "description_en": "",
+   "link": "https://i.postimg.cc/QM5DTdH5/1745930589070.png",
+  "image": "https://i.postimg.cc/QM5DTdH5/1745930589070.png",
+  "images": ["https://i.postimg.cc/QM5DTdH5/1745930589070.png"],
+  "category": "graphics"
+},
+{
+  "title_ar": "فيصل مصمم جرافيكس",
+  "title_en": "FAISAL graphics desing",
+  "description_ar": "",
+  "description_en": "",
+   "link": "https://i.postimg.cc/3RFHtfjx/1745930589098.png",
+  "image": "https://i.postimg.cc/3RFHtfjx/1745930589098.png",
+  "images": ["https://i.postimg.cc/3RFHtfjx/1745930589098.png"],
+  "category": "graphics"
+},
+{
+  "title_ar": "فيصل مصمم جرافيكس",
+  "title_en": "FAISAL graphics desing",
+  "description_ar": "",
+  "description_en": "",
+  "link": "https://i.postimg.cc/7Lv8wrmL/1745930799414.jpg",
+  "image": "https://i.postimg.cc/7Lv8wrmL/1745930799414.jpg",
+  "images": ["https://i.postimg.cc/7Lv8wrmL/1745930799414.jpg"],
+  "category": "graphics"
+},
+{
+  "title_ar": "فيصل مصمم جرافيكس",
+  "title_en": "FAISAL graphics desing",
+  "description_ar": "",
+  "description_en": "",
+  "link": "https://i.postimg.cc/QM5DTdH5/1745930589070.png",
+  "image": "https://i.postimg.cc/QM5DTdH5/1745930589070.png",
+  "images": ["https://i.postimg.cc/QM5DTdH5/1745930589070.png"],
+  "category": "graphics"
+},
+{
+  "title_ar": "فيصل مصمم جرافيكس",
+  "title_en": "FAISAL graphics desing",
+  "description_ar": "",
+  "description_en": "",
+  "link": "https://i.postimg.cc/RVDxpHtK/1745930589044.png",
+  "image": "https://i.postimg.cc/RVDxpHtK/1745930589044.png",
+  "images": ["https://i.postimg.cc/RVDxpHtK/1745930589044.png"],
+  "category": "graphics"
+},
+{
+  "title_ar": "فيصل مصمم جرافيكس",
+  "title_en": "FAISAL graphics desing",
+  "description_ar": "",
+  "description_en": "",
+  "link": "https://i.postimg.cc/g02QXWSs/d-six.jpg",
+  "image": "https://i.postimg.cc/g02QXWSs/d-six.jpg",
+  "images": ["https://i.postimg.cc/g02QXWSs/d-six.jpg"],
+  "category": "graphics"
+},
+{
+  "title_ar": "فيصل مصمم جرافيكس",
+  "title_en": "FAISAL graphics desing",
+  "description_ar": "",
+  "description_en": "",
+  "link": "https://i.postimg.cc/SK15cvHh/d-seven.jpg",
+  "image": "https://i.postimg.cc/SK15cvHh/d-seven.jpg",
+  "images": ["https://i.postimg.cc/SK15cvHh/d-seven.jpg"],
+  "category": "graphics"
+},
+{
+  "title_ar": "فيصل مصمم جرافيكس",
+  "title_en": "FAISAL graphics desing",
+  "description_ar": "",
+  "description_en": "",
+   "link": "https://i.postimg.cc/nhZ6x7q6/d-one.jpg",
+  "image": "https://i.postimg.cc/nhZ6x7q6/d-one.jpg",
+  "images": ["https://i.postimg.cc/nhZ6x7q6/d-one.jpg"],
+  "category": "graphics"
+},
+{
+  "title_ar": "فيصل مصمم جرافيكس",
+  "title_en": "FAISAL graphics desing",
+  "description_ar": "",
+  "description_en": "",
+  "link": "https://i.postimg.cc/VLX3240q/d-nine.jpg",
+  "image": "https://i.postimg.cc/VLX3240q/d-nine.jpg",
+  "images": ["https://i.postimg.cc/VLX3240q/d-nine.jpg"],
+  "category": "graphics"
+},
+{
+  "title_ar": "فيصل مصمم جرافيكس",
+  "title_en": "FAISAL graphics desing",
+  "description_ar": "",
+  "description_en": "",
+  "link": "https://i.postimg.cc/SxrHxsrj/d-eight.jpg",
+  "image": "https://i.postimg.cc/SxrHxsrj/d-eight.jpg",
+  "images": ["https://i.postimg.cc/SxrHxsrj/d-eight.jpg"],
+  "category": "graphics"
+},
+
+{
+  "title_ar": "فيصل مصمم جرافيكس",
+  "title_en": "FAISAL graphics desing",
+  "description_ar": "",
+  "description_en": "",
+   "link": "https://i.postimg.cc/44DD8jy4/d-c9.jpg",
+  "image": "https://i.postimg.cc/44DD8jy4/d-c9.jpg",
+  "images": ["https://i.postimg.cc/44DD8jy4/d-c9.jpg"],
+  "category": "graphics"
+},
+{
+  "title_ar": "فيصل مصمم جرافيكس",
+  "title_en": "FAISAL graphics desing",
+  "description_ar": "",
+  "description_en": "",
+  "link": "https://i.postimg.cc/76cFrWNV/d-c8.jpg",
+  "image": "https://i.postimg.cc/76cFrWNV/d-c8.jpg",
+  "images": ["https://i.postimg.cc/76cFrWNV/d-c8.jpg"],
+  "category": "graphics"
+},
+{
+  "title_ar": "فيصل مصمم جرافيكس",
+  "title_en": "FAISAL graphics desing",
+  "description_ar": "",
+  "description_en": "",
+   "link": "https://i.postimg.cc/XqCTjkH0/d-c7.jpg",
+  "image": "https://i.postimg.cc/XqCTjkH0/d-c7.jpg",
+  "images": ["https://i.postimg.cc/XqCTjkH0/d-c7.jpg"],
+  "category": "graphics"
+},
+{
+  "title_ar": "فيصل مصمم جرافيكس",
+  "title_en": "FAISAL graphics desing",
+  "description_ar": "",
+  "description_en": "",
+  "link": "https://i.postimg.cc/44HCQXJF/d-c6.jpg",
+  "image": "https://i.postimg.cc/44HCQXJF/d-c6.jpg",
+  "images": ["https://i.postimg.cc/44HCQXJF/d-c6.jpg"],
+  "category": "graphics"
+},
+{
+  "title_ar": "فيصل مصمم جرافيكس",
+  "title_en": "FAISAL graphics desing",
+  "description_ar": "",
+  "description_en": "",
+   "link": "https://i.postimg.cc/ZqYt83Rr/d-c4.jpg",
+  "image": "https://i.postimg.cc/ZqYt83Rr/d-c4.jpg",
+  "images": ["https://i.postimg.cc/ZqYt83Rr/d-c4.jpg"],
+  "category": "graphics"
+},
+{
+  "title_ar": "فيصل مصمم جرافيكس",
+  "title_en": "FAISAL graphics desing",
+  "description_ar": "",
+  "description_en": "",
+  "link": "https://i.postimg.cc/zB3sMrTv/d-c3.jpg",
+  "image": "https://i.postimg.cc/zB3sMrTv/d-c3.jpg",
+  "images": ["https://i.postimg.cc/zB3sMrTv/d-c3.jpg"],
+  "category": "graphics"
+},
+{
+  "title_ar": "فيصل مصمم جرافيكس",
+  "title_en": "FAISAL graphics desing",
+  "description_ar": "",
+  "description_en": "",
+  "link": "https://i.postimg.cc/jS4Ynvsx/d-c1-1.jpg",
+  "image": "https://i.postimg.cc/jS4Ynvsx/d-c1-1.jpg",
+  "images": ["https://i.postimg.cc/jS4Ynvsx/d-c1-1.jpg"],
+  "category": "graphics"
+},
+{
+  "title_ar": "فيصل مصمم جرافيكس",
+  "title_en": "FAISAL graphics desing",
+  "description_ar": "",
+  "description_en": "",
+  "link": "https://i.postimg.cc/3wLMnR4z/d-c1.jpg",
+  "image": "https://i.postimg.cc/3wLMnR4z/d-c1.jpg",
+  "images": ["https://i.postimg.cc/3wLMnR4z/d-c1.jpg"],
+  "category": "graphics"
+},
+{
+  "title_ar": "تسويق الكتروني فيصل ",
+  "title_en": "Faisal Digital Marketing",
+  "description_ar": "",
+  "description_en": "",
+  "link": "https://i.postimg.cc/0jch1Gqc/‏‏لقطة_الشاشة_(2).png",
+  "image": "https://i.postimg.cc/0jch1Gqc/‏‏لقطة_الشاشة_(2).png",
+  "images": ["https://i.postimg.cc/0jch1Gqc/‏‏لقطة_الشاشة_(2).png"],
+  "category": "seo"
+},
+{
+  "title_ar": "تسويق الكتروني فيصل ",
+  "title_en": "Faisal Digital Marketing",
+  "description_ar": "",
+  "description_en": "",
+  "link": "https://i.postimg.cc/W3cBGbn6/3.png.png",
+  "image": "https://i.postimg.cc/W3cBGbn6/3.png.png",
+  "images": ["https://i.postimg.cc/W3cBGbn6/3.png.png"],
+  "category": "seo"
+},
+{
+  "title_ar": "تسويق الكتروني فيصل ",
+  "title_en": "Faisal Digital Marketing",
+  "description_ar": "",
+  "description_en": "",
+  "link": "https://i.postimg.cc/ZRP1Vtsk/‏‏لقطة_الشاشة_(4).png",
+  "image": "https://i.postimg.cc/ZRP1Vtsk/‏‏لقطة_الشاشة_(4).png",
+  "images": ["https://i.postimg.cc/ZRP1Vtsk/‏‏لقطة_الشاشة_(4..png"],
+  "category": "seo"
+},
+{
+  "title_ar": "تسويق الكتروني فيصل ",
+  "title_en": "Faisal Digital Marketing",
+  "description_ar": "",
+  "description_en": "",
+  "link": "https://i.postimg.cc/1X9bdCb8/‏‏لقطة_الشاشة_(5).png",
+  "image": "https://i.postimg.cc/1X9bdCb8/‏‏لقطة_الشاشة_(5).png",
+  "images": ["https://i.postimg.cc/1X9bdCb8/‏‏لقطة_الشاشة_(5).png"],
+  "category": "seo"
+},
+{
+  "title_ar": "تسويق الكتروني فيصل ",
+  "title_en": "Faisal Digital Marketing",
+  "description_ar": "",
+  "description_en": "",
+  "link": "https://i.postimg.cc/Wb1Q6yMK/‏‏لقطة_الشاشة_(6).png",
+  "image": "https://i.postimg.cc/Wb1Q6yMK/‏‏لقطة_الشاشة_(6).png",
+  "images": ["https://i.postimg.cc/Wb1Q6yMK/‏‏لقطة_الشاشة_(6).png"],
+  "category": "seo"
+}
+],
+"posts": [
+  {
+    "title_ar": "الذكاء الاصطناعي وتأثيره على مستقبل البرمجة",
+    "title_en": "Artificial Intelligence and Its Impact on the Future of Programming",
+    "date": "2025-05-20",
+    "excerpt_ar": "نناقش في هذه المقالة كيف يغيّر الذكاء الاصطناعي طريقة تطوير البرمجيات ودوره في تسريع عمليات البرمجة.",
+    "excerpt_en": "This article discusses how AI is changing the way software is developed and its role in accelerating programming processes.",
+    "link": "#"
+  },
+  {
+    "title_ar": "أحدث تقنيات الويب في 2025",
+    "title_en": "Latest Web Technologies in 2025",
+    "date": "2025-04-18",
+    "excerpt_ar": "استعراض شامل لأحدث تقنيات الويب التي ظهرت هذا العام، وكيفية الاستفادة منها في مشاريعك.",
+    "excerpt_en": "A comprehensive overview of the latest web technologies in 2025 and how to use them in your projects.",
+    "link": "#"
+  },
+  {
+    "title_ar": "أمن المعلومات: أساسيات يجب أن يعرفها كل مطور",
+    "title_en": "Cybersecurity: Essentials Every Developer Should Know",
+    "date": "2025-03-12",
+    "excerpt_ar": "تعرف على المفاهيم الأساسية في أمن المعلومات وكيفية حماية تطبيقاتك من الهجمات الشائعة.",
+    "excerpt_en": "Learn the basic concepts of cybersecurity and how to protect your applications from common attacks.",
+    "link": "#"
+  },
+  {
+    "title_ar": "الفرق بين REST وGraphQL: أيهما تستخدم؟",
+    "title_en": "REST vs GraphQL: Which One Should You Use?",
+    "date": "2025-02-05",
+    "excerpt_ar": "مقارنة شاملة بين REST وGraphQL من حيث الأداء، المرونة، وسهولة الاستخدام في بناء الـ APIs.",
+    "excerpt_en": "A detailed comparison between REST and GraphQL in terms of performance, flexibility, and ease of use when building APIs.",
+    "link": "#"
+  },
+  {
+    "title_ar": "كيف تختار إطار العمل المناسب لمشروعك؟",
+    "title_en": "How to Choose the Right Framework for Your Project?",
+    "date": "2025-01-22",
+    "excerpt_ar": "نساعدك في هذه المقالة على فهم كيفية اختيار إطار العمل الأنسب بناءً على نوع المشروع ومتطلباته.",
+    "excerpt_en": "This article helps you understand how to choose the right framework based on your project type and requirements.",
+    "link": "#"
+  }
+],
+
+"reviews": [
+  {
+    "author_ar": "الدكتور محمد عياش",
+    "author_en": "Dr. Mohammed Ayash",
+    "content_ar": "خدمة ممتازة وتجربة رائعة مع فيصل.",
+    "content_en": "Excellent service and a great experience with Faisal.",
+    "date": "2024-03-05"
+  },
+  {
+    "author_ar": "الأستاذ عبدالرحمن النابلسي",
+    "author_en": "Mr. Abdulrahman Al-Nabulsi",
+    "content_ar": "احترافية عالية وسرعة في إنجاز المشاريع.",
+    "content_en": "Highly professional and fast project delivery.",
+    "date": "2024-04-01"
+  },
+  {
+    "author_ar": "أبو فهمي",
+    "author_en": "Abu Fahmi",
+    "content_ar": "تعامل راقٍ ومصداقية في المواعيد. أنصح بالتعامل معه.",
+    "content_en": "Respectful communication and punctuality. Highly recommended.",
+    "date": "2024-04-20"
+  },
+  {
+    "author_ar": "أبو نواف",
+    "author_en": "Abu Nawaf",
+    "content_ar": "قدم حلولاً مبتكرة لموقعي الإلكتروني. شكراً لك.",
+    "content_en": "Provided innovative solutions for my website. Thank you.",
+    "date": "2024-05-10"
+  },
+  {
+    "author_ar": "علي النجدي",
+    "author_en": "Ali Al-Najdi",
+    "content_ar": "عمل متقن وتواصل سريع. تجربة ممتازة بكل المقاييس.",
+    "content_en": "Well-crafted work and fast communication. An excellent experience overall.",
+    "date": "2024-05-25"
+  }
+],
+
+  "experience": [
+    {
+      "title_ar": "معهد الثورة التجاري",
+      "title_en": "Technical and Vocational Education and Training,Revolution Institute",
+      "period_ar": "2023-2024",
+      "period_en": "2023-2024",
+       "description_ar": "مدرس مقرر قواعد بيانات",
+      "description_en": "database teacher"
+    },
+    {
+      "title_ar": "جامعة حجة",
+      "title_en": "Hajjah University",
+      "period_ar": "2023-2024",
+      "period_en":"2023-2024",
+      "description_ar": "مدرس مقرر برمجة مواقع ويب متقدم",
+      "description_en": "Website programming teacher"
+    },
+    {
+      "title_ar": "المعهد العصري للتنمية البشرية",
+      "title_en": "AL. Asri Institute for Human Development - Hajjah City",
+      "period_ar": "2023-2024",
+      "period_en":"2023-2024",
+      "description_ar": "مدرب حاسوب",
+      "description_en": "computer trainer"
+    },
+    {
+      "title_ar": "الصندوق الاجتماعي للتنمية",
+      "title_en": "Social Fund for Development",
+       "period_ar": "2022 - ثلاثة شهور",
+      "period_en":"months three - 2022",
+      "description_ar": "تدريب ميداني",
+      "description_en": "Field Training"
+    },
+    {
+      "title_ar": "العمل الحر عن بعد",
+      "title_en": "Freelance",
+      "period_ar": "مايو 2023 - الآن • سنتان وشهر",
+        "period_en": "May 2023 - Present • 2 years, 1 month",
+      "description_ar": "تطوير مواقع ويب",
+      "description_en": "Web Development"
+    },
+    {
+      "title_ar": "متجر نيو مارك للملابس الجاهزة",
+      "title_en": " New Mark Clothing Stor",
+      "period_ar": "2015-2017",
+        "period_en": "2015-2017",
+      "description_ar": "مساعد مبيعات بالتجزئة",
+      "description_en": "Retail Sales Associate"
+    }
+  ],
+  "education": [
+  {
+    "institution_ar": "جامعة حجة, كلية العلوم التطبيقية",
+    "institution_en": "Hajjah University, Faculty of Applied Sciences",
+    "years_ar": "2019 - 2023",
+    "years_en": "2019 - 2023",
+    "details_ar": "بكالوريوس علوم حاسوب، بتقدير جيد جدا",
+    "details_en": "Bachelor's degree in Computer Science, with a grade of Very Good."
+  },
+  {
+    "institution_ar": "معهد الثورة التقني التجاري",
+    "institution_en": "General Telecommunication Institute",
+    "years_ar": "2022 - 2025",
+    "years_en": "2022 - 2025",
+    "details_ar": "دبلوم عالي مهني محاسبة مالية ",
+    "details_en": "Higher Professional Diploma in Financial Accounting."
+  }
+],
+  "skills": [
+  {
+    "skill_ar": "تطوير الواجهة الأمامية: HTML، CSS، W3.CSS، JavaScript، Bootstrap، AJAX، JSON",
+    "skill_en": "Front-end Development: HTML, CSS, W3.CSS, JavaScript, Bootstrap, AJAX, JSON"
+  },
+  {
+    "skill_ar": "تطوير الواجهة الخلفية: PHP PDO، PHP Laravel، ASP.NET، PHP API",
+    "skill_en": "Back-end Development: PHP PDO, PHP Laravel,Mysql,PHP API"
+  },
+  {
+    "skill_ar": "MySQL، قواعد البيانات، Oracle SQL Plus، SQL Server، Microsoft Access",
+    "skill_en": "MySQL, Database, Oracle SQL Plus, SQL Server, Microsoft Access"
+  },
+  {
+    "skill_ar": "مايكروسوفت أوفيس",
+    "skill_en": "Microsoft Office"
+  },
+  {
+    "skill_ar": "تصميم تجربة المستخدم (UX): فهم احتياجات المستخدم وإنشاء واجهات سهلة الاستخدام وجذابة",
+    "skill_en": "User Experience (UX) Design: Understanding user needs and creating user-friendly and engaging interfaces"
+  },
+  {
+    "skill_ar": "تصميم جرافيكي باستخدام أدوات مثل Canva وPixel App",
+    "skill_en": "Graphic design using tools like Canva and Pixel App"
+  },
+  {
+    "skill_ar": "تحسين محركات البحث",
+    "skill_en": "SEO"
+  },
+  {
+    "skill_ar": "تعزيز الأمان على جميع مواقع التواصل الاجتماعي",
+    "skill_en": "Enhancing security on all social media sites"
+  },
+  {
+    "skill_ar": "العمل ضمن فريق أو بشكل فردي",
+    "skill_en": "Working in a team or individually"
+  },
+  {
+    "skill_ar": "الانضباط في المواعيد",
+    "skill_en": "Punctuality"
+  },
+  {
+    "skill_ar": "القدرة على حل المشكلات واتخاذ القرارات",
+    "skill_en": "The ability to solve problems and make decisions"
+  },
+  {
+    "skill_ar": "الجدية والالتزام بالعمل",
+    "skill_en": "Seriousness and commitment to work"
+  },
+  {
+    "skill_ar": "القدرة على تحمل ضغوط العمل",
+    "skill_en": "The ability to withstand work pressures"
+  },
+  {
+    "skill_ar": "مهارات عالية في الإقناع والتواصل",
+    "skill_en": "High persuasion and communication skills"
+  },
+  {
+    "skill_ar": "استخدام الحاسوب، أوفيس ومحركات البحث",
+    "skill_en": "Use of computer, Office, and search engines"
+  },
+  {
+    "skill_ar": "القدرة على تعلم وإتقان أي عمل في وقت قصير",
+    "skill_en": "The ability to learn and master any work in a short time"
+  },
+  {
+    "skill_ar": "إدارة الوقت وتحديد الأولويات",
+    "skill_en": "Time management and prioritization"
+  },
+  {
+    "skill_ar": "أوامر Termux",
+    "skill_en": "Termux commands"
+  }
+],
+
+  "certifications": [
+  {
+    "title_ar": "دورة المهارات الحياتية والمالية وإدارة المشاريع",
+    "title_en": "Life, Financial, and Project Management Skills Course",
+    "issuer_ar": "برنامج بناء قدرات الشباب - الاتحاد الأوروبي و ZOA",
+    "issuer_en": "Youth Capacity Building Program - EU and ZOA",
+    "year": "16/07/2023 - 24/07/2023"
+  },
+  {
+    "title_ar": "دورة اللغة الإنجليزية - المستوى التمهيدي",
+    "title_en": "English Language Course - Introductory Level",
+    "issuer_ar": "معهد الثورة للتعليم الفني والتدريب المهني",
+    "issuer_en": "Revolution Institute for Technical and Vocational Education and Training",
+    "year": "02/2018 - 04/2018"
+  },
+  {
+    "title_ar": "دورة مهارات الكتابة والتحدث - المستوى الأول",
+    "title_en": "Writing and Speaking Skills Course - Level 1",
+    "issuer_ar": "معهد الثورة للتعليم الفني والتدريب المهني",
+    "issuer_en": "Revolution Institute for Technical and Vocational Education and Training",
+    "year": "04/2018 - 06/2018"
+  },
+  {
+    "title_ar": "دورة مهارات الكتابة والتحدث - المستوى المتوسط",
+    "title_en": "Writing and Speaking Skills Course - Intermediate Level",
+    "issuer_ar": "معهد الثورة للتعليم الفني والتدريب المهني",
+    "issuer_en": "Revolution Institute for Technical and Vocational Education and Training",
+    "year": "06/2018 - 09/2018"
+  },
+  {
+    "title_ar": "دورة تعلم لغات البرمجة HTML و JavaScript و PHP",
+    "title_en": "Programming Languages Course: HTML, JavaScript, PHP",
+    "issuer_ar": "موقع SoloLearn (تعلم ذاتي)",
+    "issuer_en": "SoloLearn (Self-learning)",
+    "year": "03/2018 - 08/2018"
+  },
+  {
+    "title_ar": "دورة المحاسبة النظرية والعملية",
+    "title_en": "Theoretical and Practical Accounting Course",
+    "issuer_ar": "معهد الأصري لتنمية الإنسان - مدينة حجة",
+    "issuer_en": "AL. Asri Institute for Human Development - Hajjah City",
+    "year": "مدة 3 أشهر"
+  },
+  {
+    "title_ar": "دورة السكرتارية التنفيذية",
+    "title_en": "Executive Secretarial Series Course",
+    "issuer_ar": "صندوق التنمية الاجتماعية",
+    "issuer_en": "Social Fund for Development",
+    "year": "غير محدد"
+  },
+  {
+    "title_ar": "دورة عبر الإنترنت - منصة SoloLearn",
+    "title_en": "Online Course - SoloLearn Platform",
+    "issuer_ar": "تعلم حر",
+    "issuer_en": "Freelance Learning",
+    "year": "3 months"
+  },
+   {
+    "title_ar": "شهادة خبرة في تدريب الحاسوب",
+    "title_en": "Computer Training Experience Certificate",
+    "issuer_ar": "المعهد العصري للتنمية البشرية",
+    "issuer_en": "AL-Asri Institute for Human Development",
+    "year": "2023"
+  },
+  {
+    "title_ar": "خطاب توصية من المعهد العصري للتنمية البشرية",
+    "title_en": "Recommendation Letter from AL-Asri Institute for Human Development",
+    "issuer_ar": "المعهد العصري للتنمية البشرية",
+    "issuer_en": "AL-Asri Institute for Human Development",
+    "year": "2023"
+  },
+  {
+    "title_ar": "شهادة خبرة في التدريس",
+    "title_en": "Experience Certificate in Teaching",
+    "issuer_ar": "جامعة حجة - كلية العلوم التطبيقية",
+    "issuer_en": "Hajjah University - Faculty of Applied Sciences",
+    "year": "2023"
+  },
+  {
+    "title_ar": "خطاب توصية من جامعة حجة - كلية العلوم التطبيقية",
+    "title_en": "Recommendation Letter from Hajjah University - Faculty of Applied Sciences",
+    "issuer_ar": "جامعة حجة - كلية العلوم التطبيقية",
+    "issuer_en": "Hajjah University - Faculty of Applied Sciences",
+    "year": "2023"
+  }
+],
+ "achievements": [
+  {
+    "title_ar": "تطوير نظام ويب للتسويق العقاري",
+    "title_en": "Developed a Web-Based Real Estate Marketing System",
+    "description_ar": "تم تصميم وتطوير نظام إلكتروني شامل للتسويق العقاري يتيح إدارة العقارات، العملاء، والإعلانات.",
+    "description_en": "Designed and developed a comprehensive web system for real estate marketing, enabling management of properties, clients, and listings.",
+    "year": "2023"
+  },
+  {
+    "title_ar": "إنشاء منصة إلكترونية لإدارة أعمال التدريب",
+    "title_en": "Created a Web Platform for Training Business Management",
+    "description_ar": "منصة لإدارة الدورات، المتدربين، الجدولة، والتقارير الخاصة بأعمال التدريب.",
+    "description_en": "Developed a platform to manage courses, trainees, scheduling, and reporting for training businesses.",
+    "year": "2023"
+  },
+  {
+    "title_ar": "بناء منصة لإدارة أعمال المدربين",
+    "title_en": "Built a Platform for Trainers’ Business Management",
+    "description_ar": "نظام مخصص للمدربين لمتابعة جلساتهم، طلابهم، ومدفوعاتهم.",
+    "description_en": "Developed a custom system for trainers to manage sessions, students, and payments.",
+    "year": "2024"
+  },
+  {
+    "title_ar": "إنشاء أكثر من 6 مواقع إلكترونية متنوعة",
+    "title_en": "Developed Over 6 Diverse Websites",
+    "description_ar": "من بينها مواقع تعريفية لشركات وأفراد، بالإضافة إلى مواقع لإدارة المؤسسات والموظفين والمهام، ومتجر إلكتروني.",
+    "description_en": "Including portfolio websites for companies and individuals, systems for managing organizations, employees, tasks, and an e-commerce store.",
+    "year": "2022 - 2024"
+  },
+  {
+    "title_ar": "تحسين ظهور المواقع في محركات البحث (SEO)",
+    "title_en": "Improved Website Visibility through SEO",
+    "description_ar": "تم تحسين محركات البحث للمواقع المطورة مما ساهم في ظهورها ضمن النتائج الأولى في محرك بحث Google.",
+    "description_en": "Applied SEO strategies to the developed websites, resulting in top rankings on Google search results.",
+    "year": "2024"
+  }
+],
+  "languages": [
+    {
+      "language_ar": "العربية",
+      "language_en": "Arabic",
+      "level_ar": "اللغة الأم",
+      "level_en": "Native"
+    },
+    {
+      "language_ar": "الإنجليزية",
+      "language_en": "English",
+      "level_ar": "متقدم",
+      "level_en": "Advanced"
+    }
+  ],
+  "personal_info": {
+    "full_name_ar": "فيصل حسين أحمد العفريت",
+    "full_name_en": "Faisal hosin Ahmmed Al-afrit",
+    "birthdate": "1997-02-01",
+    "nationality_ar": "يمني",
+    "nationality_en": "Yemni",
+    "marital_status_ar": "أعزب",
+    "marital_status_en": "Single",
+    "phone": "+967779289621",
+    "email": "engfaisal1011@gmail.com",
+    "address_ar": "صنعاء,اليمن",
+    "address_en": "Sana'a,Yemen"
+  },
+  "contact_links": [
+  {
+    "platform": "Facebook",
+    "url": "https://facebook.com/engfaisal101"
+  },
+  {
+    "platform": "Twitter",
+    "url": "https://twitter.com/engfaisal101"
+  },
+  {
+    "platform": "LinkedIn",
+    "url": "https://www.linkedin.com/in/engfaisal101"
+  },
+  {
+    "platform": "GitHub",
+    "url": "https://github.com/engfaisal101"
+  }
+]
+
+}
