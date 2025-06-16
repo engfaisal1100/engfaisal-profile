@@ -228,7 +228,6 @@ if(personalInfoList) {
   personalInfoList.innerHTML = `
     <li><strong>${lang === 'ar' ? 'الاسم الكامل' : 'Full Name'}:</strong> ${info[`full_name_${lang}`]}</li>
     <li><strong>${lang === 'ar' ? 'الجنسية' : 'Nationality'}:</strong> ${info[`nationality_${lang}`]}</li>
-    <li><strong>${lang === 'ar' ? 'الحالة الاجتماعية' : 'Marital Status'}:</strong> ${info[`marital_status_${lang}`]}</li>
     <li><strong>${lang === 'ar' ? 'رقم الهاتف' : 'Phone'}:</strong> ${info.phone}</li>
     <li><strong>${lang === 'ar' ? 'البريد الإلكتروني' : 'Email'}:</strong> ${info.email}</li>
     <li><strong>${lang === 'ar' ? 'العنوان' : 'Address'}:</strong> ${info[`address_${lang}`]}</li>
